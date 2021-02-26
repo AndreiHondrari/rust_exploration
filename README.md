@@ -3,8 +3,8 @@
 ## Description
 This repository contains code samples that have the purpose of exploring the following:
 
-* python fundamentals
-* python standard modules
+* rust fundamentals
+* rust standard modules
 * known design patterns
 * networking concepts
 * multithreading concepts
